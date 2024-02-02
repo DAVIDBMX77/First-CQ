@@ -1,2 +1,2 @@
-# First-CQ
+# First-QC
 This repository is for iQUHACK
